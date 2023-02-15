@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, I'm **Bai Zhiyuan **👋
 
-
-**baizhiyuan/baizhiyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is the place where I opensource stuff:
 
 - 🔭 I’m currently working on RFS-SLAM
 - 🌱 I’m currently learning VIO-SLAM
