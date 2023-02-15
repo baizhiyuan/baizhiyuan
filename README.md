@@ -1,4 +1,4 @@
-### Hi there, I'm **Bai Zhiyuan **👋
+### Hi there, I'm **Bai Zhiyuan** 👋
 
 This is the place where I opensource stuff:
 
