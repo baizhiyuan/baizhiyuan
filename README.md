@@ -1,5 +1,5 @@
 ### Hi there, I'm **Bai Zhiyuan** 👋
-
+[![baizhiyuan's github stats](https://github-readme-stats.vercel.app/api?username=baizhiyuan)](https://github.com/anuraghazra/github-readme-stats) 
 This is the place where I opensource stuff:
 
 - 🔭 I’m currently working on RFS-SLAM.
