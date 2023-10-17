@@ -5,10 +5,10 @@ This is the place where I opensource stuff:
 
 - 🔭 I’m currently working on RFS-SLAM.
 - 🌱 I’m currently learning VIO-SLAM.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on VIO-SLAM.
+- 🤔 I’m looking for help with AR/XR.
 - 💬 Ask me about RFS-SLAM.
 - 📫 How to reach me: bai846@hdu.edu.cn
-- 😄 Pronouns: ...
+- 😄 Pronouns: bzy.
 - ⚡ Fun fact: 🏃.
 
