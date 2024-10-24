@@ -14,9 +14,7 @@ This is the place where I opensource stuff:
 <br/>
 <hr>
 
-| <img align="center" src="https://readme-stats.clckblog.space/api?username=baizhiyuan&theme=tokyonight&show_icons=true&count_private=true"/> 
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baizhiyuan&include_all_commits=true&hide_border=true&theme=dark" /> 
-| <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=baizhiyuan&show_icons=true&theme=radical&langs_count=10&layout=compact" /> |
+| <img align="center" src="https://readme-stats.clckblog.space/api?username=baizhiyuan&theme=tokyonight&show_icons=true&count_private=true"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baizhiyuan&include_all_commits=true&hide_border=true&theme=dark" /> | <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=baizhiyuan&show_icons=true&theme=radical&langs_count=10&layout=compact" /> |
 | ------------- | ------------- | ------------- |
 
 ![Snake Game](https://github.com/baizhiyuan/baizhiyuan/blob/output/ocean.gif)
