@@ -1,5 +1,6 @@
 ### Hi there, I'm **Bai Zhiyuan** 👋
-[![baizhiyuan's github stats](https://github-readme-stats.vercel.app/api?username=baizhiyuan&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+<img align="center" src="https://readme-stats.clckblog.space/api?username=baizhiyuan&theme=tokyonight&show_icons=true&count_private=true"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baizhiyuan&include_all_commits=true&hide_border=true&theme=dark" />
 <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=baizhiyuan&show_icons=true&theme=radical&langs_count=10&layout=compact" />
 Hi, I'm BZY, and I'm currently working as an Algorithm Engineer at Hangzhou Guangli Technology Co., Ltd. My main area of research focuses on the development of lightweight Visual-Inertial Navigation Systems (VINS). I've got my Master's degree form the Hangzhou Dianzi University (Control Science and Engineering) @ Summer 2024. During this period, I conduct in-depth research on RFS-SLAM, covering both theoretical and engineering aspects, specifically from GM-PHD-PMAU-SLAM to IEKF-PHD-SLAM with multi-sensor fusion.
