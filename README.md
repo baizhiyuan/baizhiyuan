@@ -84,7 +84,7 @@ Hi, I'm **BZY**, an Algorithm Engineer at **Hangzhou Guangli Technology Co., Ltd
 
 <p align="center">
   <a href="https://tokscale.ai/u/baizhiyuan">
-    <img src="https://tokscale.ai/api/embed/baizhiyuan/svg" alt="Tokscale AI usage" />
+    <img src="https://tokscale.ai/api/embed/baizhiyuan/svg?v=20260507" alt="Tokscale AI usage" />
   </a>
 </p>
 
