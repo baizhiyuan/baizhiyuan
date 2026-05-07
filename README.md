@@ -80,12 +80,15 @@ Hi, I'm **BZY**, an Algorithm Engineer at **Hangzhou Guangli Technology Co., Ltd
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI Usage
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baizhiyuan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baizhiyuan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+  <a href="https://tokscale.ai/u/baizhiyuan">
+    <img src="https://tokscale.ai/api/embed/baizhiyuan/svg" alt="Tokscale AI usage" />
+  </a>
 </p>
+
+## 🔥 Commit Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=baizhiyuan&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
